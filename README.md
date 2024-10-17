@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am Ojas Baral! I'm studying Computer Science with a minor in Business at the University of Colorado Boulder. I also like to create hobby projects! Take a look at two of my favorites:
+- One Take A Day
+  - A social media application that allows users to post one sports opinion a day.
+- Mini Git Clone
+  - A mini git clone that uses various data structures that I learned throughout my data structures course.
+
 <!--
 **ojasbaral/ojasbaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
